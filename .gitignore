@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 # Server information
-.idea/
+.idea
 ServerData
